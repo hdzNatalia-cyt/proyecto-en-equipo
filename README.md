@@ -4,9 +4,14 @@ Creamos un algoritmo en Pseint sobre un “hola mundo”, para asi pasarlo a una
 *diagrama de clases*
 
 class saludo
+
 v- etiqueta_resultado_saludar
+
 m- Saludar
 
+
 ventana
+
 etiqueta_resultado_saludar
+
 boton_saludar
